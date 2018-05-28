@@ -32,11 +32,11 @@ galaxy_info:
   #
   # platforms is a list of platforms, and each platform has a name and a list of versions.
   #
-  # platforms:
-  # - name: Fedora
-  #   versions:
+   platforms:
+   - name: Fedora
+     versions:
   #   - all
-  #   - 25
+      - 27
   # - name: SomePlatform
   #   versions:
   #   - all
